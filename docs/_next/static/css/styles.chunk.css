@@ -1,0 +1,39 @@
+.body {
+  padding: 40px 16px; }
+
+.title {
+  width: 220px;
+  font-size: 16px;
+  text-align: center;
+  line-height: 24px;
+  margin: 0 auto 20px; }
+
+.bold, .title, .subtitle {
+  font-weight: bold; }
+
+.black {
+  color: #1D1D1D; }
+
+.blue {
+  color: #009CDE; }
+
+a.blue {
+  text-decoration: none; }
+
+.wordbreak {
+  word-wrap: break-word; }
+
+.fs12 {
+  font-size: 12px; }
+
+.subtitle {
+  margin-top: 16px; }
+
+.body {
+  font-size: 14px; }
+
+.content > div {
+  margin-bottom: 8px; }
+
+
+/*# sourceMappingURL=styles.chunk.css.map*/
